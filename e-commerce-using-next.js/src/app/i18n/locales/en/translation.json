@@ -1,0 +1,66 @@
+{
+  "delivery": "Delivery: 3-5 working days depends on area",
+  "navigation": {
+    "title": "Navigation",
+    "home": "Home",
+    "shop": "Shop",
+    "aboutUs": "About us",
+    "FAQs": "FAQs",
+    "Media": "Media",
+    "contactUs": "Contact us"
+  },
+  "languageButton": "العربية",
+  "search": {
+    "placeholder": "Search for products"
+  },
+  "cart": {
+    "title": "Cart",
+    "remove": "Remove",
+    "checkout": "Checkout",
+    "empty": "Your cart is empty",
+    "total": "Total",
+    "quantity": "Quantity",
+    "addToCart": "Add to cart"
+  },
+  "landingPage": {
+    "newArrivals": "New Arrivals",
+    "featuredProducts": "Featured Products"
+  },
+  "input": "No matches found",
+  "footer": {
+    "description": "We are dedicated to offering the best service, with high quality products, and low delivery times.",
+    "copyright": "Copyright © 2025 All rights reserved.",
+    "request": "Please consider following us",
+    "quickLinks": {
+      "title": "Quick Links",
+      "trackYourOrder": "Track Your Order",
+      "refund&ReturnsPolicy": "Refund & Returns Policy",
+      "terms&Conditions": "Terms & Conditions",
+      "privacyPolicy": "Privacy Policy"
+    },
+    "products": {
+      "title": "Products",
+      "product1": "Test bundles",
+      "product2": "Haircare",
+      "product3": "Skincare"
+    },
+    "contactUs": {
+      "title": "Contact Us",
+      "address": "Cairo, Egypt",
+      "internalPhone": "مصر : 0123456789",
+      "externalPhone": "Other Countries : +0123456789",
+      "email": "Info@test.com"
+    }
+  },
+  "productCard": {
+    "price": "At the fair price of :"
+  },
+  "paymentModal": {
+    "quickPurchase": "Quick Purchase",
+    "completeYourPurchase": "Complete your purchase",
+    "paymentMethod": "Payment Method",
+    "paymentDetails": "Payment Details",
+    "by": "By",
+    "customerInformation": "Customer Information"
+  }
+}

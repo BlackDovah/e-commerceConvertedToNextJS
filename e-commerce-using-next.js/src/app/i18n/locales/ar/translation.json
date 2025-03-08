@@ -1,0 +1,66 @@
+{
+  "delivery": "يتم تسليم المنتجات خلال 3-5 أيام عمل حسب المنطقة",
+  "navigation": {
+    "title": "التنقل",
+    "home": "الرئيسية",
+    "shop": "المنتجات",
+    "aboutUs": "من نحن",
+    "FAQs": "الأسئلة المتكررة",
+    "Media": "المدونة",
+    "contactUs": "اتصل بنا"
+  },
+  "languageButton": "English",
+  "search": {
+    "placeholder": "البحث عن المنتجات"
+  },
+  "cart": {
+    "title": "سلة المشتريات",
+    "remove": "ازالة",
+    "checkout": "إتمام الطلب",
+    "empty": "سلة المشتريات فارغة",
+    "total": "اجمالى المبلغ",
+    "quantity": "الكمية",
+    "addToCart": "أضف إلى السلة"
+  },
+  "landingPage": {
+    "newArrivals": "وصل حديثاً",
+    "featuredProducts": "المنتجات المعروضة"
+  },
+  "input": "لم يتم العثور على أي نتائج",
+  "footer": {
+    "description": "نحن ملتزمون بتقديم أفضل الخدمات، مع منتجات عالية الجودة، وأوقات تسليم منخفضة.",
+    "copyright": "جميع الحقوق محفوظة © 2025.",
+    "request": "تابعنا",
+    "quickLinks": {
+      "title": "روابط هامة",
+      "trackYourOrder": "تتبع طلبك",
+      "refund&ReturnsPolicy": "سياسة الإستبدال والإرجاع",
+      "terms&Conditions": "الشروط والأحكام",
+      "privacyPolicy": "سياسة الخصوصية"
+    },
+    "products": {
+      "title": "المنتجات",
+      "product1": "مجموعات – Test",
+      "product2": "منتجات العناية بالبشرة",
+      "product3": "منتجات العناية بالشعر"
+    },
+    "contactUs": {
+      "title": "تواصل معنا",
+      "address": "القاهرة, مصر",
+      "internalPhone": "مصر : 0123456789",
+      "externalPhone": "للتواصل من خارج مصر : 0123456789+",
+      "email": "Info@test.com"
+    }
+  },
+  "ProductCard": {
+    "price": "السعر :"
+  },
+  "paymentModal": {
+    "quickPurchase": "شراء",
+    "completeYourPurchase": "أكمل عملية الشراء",
+    "paymentMethod": "طريقة الدفع",
+    "paymentDetails": "تفاصيل الدفع",
+    "by": "من قبل",
+    "customerInformation": "معلومات العميل"
+  }
+}
