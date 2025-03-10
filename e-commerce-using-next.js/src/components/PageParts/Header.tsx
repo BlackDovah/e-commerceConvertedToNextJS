@@ -30,6 +30,7 @@ export function Header() {
 
   const toggleLanguage = () => {
     const newLang = i18n.language === "en" ? "ar" : "en";
+    document.cookie = `NEXT_LOCALE=${newLang};path=/`;
     i18n.changeLanguage(newLang);
     toggleDirection();
   };
